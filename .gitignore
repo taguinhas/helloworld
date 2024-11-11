@@ -29,3 +29,6 @@ bin/
 .DS_Storeout/
 .idea/
 *.iml
+out/
+.idea
+*.iml
