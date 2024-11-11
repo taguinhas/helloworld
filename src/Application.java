@@ -9,10 +9,10 @@ public class Application {
         int b = scanner.nextInt();
 
         if(operation.equals("sum")){
-            System.out.println(a + b);
+            System.out.println("Result: " + (a + b));
         }
         else if(operation.equals("mul")){
-            System.out.print(a * b);
+            System.out.print("Result: " + (a * b));
         }
     }
 }
